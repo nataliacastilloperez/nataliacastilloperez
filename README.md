@@ -2,6 +2,12 @@
 ## Trainee UX/UI Designer / Trainee JavaScript Developer / Architect / Project Management 
 ### Trainee UX/UI Designer and TraineeJavaScript Developer. Architect and Project Management with experience in interior design and project management in the execution of work. High sense of leadership, adaptability, creativity and problem solving. My experience in my previous jobs has led me to strongly develop my communication skills and teamwork.
 
+## Contact
+### 📱(+57) 300 219 2441
+### 📩 nataliacastilloperez.design@gmail.com
+### 🖥️ www.github.com/nataliacastilloperez
+### 📄 www.linkedin.com/in/nataliacastillo-design/
+
 | LENGUAGES | LEVEL |
 | ------ | ------ |
 | English | [B1] |
