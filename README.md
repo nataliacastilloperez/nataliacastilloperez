@@ -15,7 +15,7 @@ ________________
 | Spanish | Native |
 ________________
 ## 💡Experience 
-### 2023 - presente
+### 2023 - present
 ### Junior UX/UI Designer 
 The project consists of building a Web application with Adobe XD and Markdown. Creation of Figma-based components. Agile work methodology.
 
