@@ -8,13 +8,13 @@
 ### 🖥️ www.github.com/nataliacastilloperez
 ### 📄 www.linkedin.com/in/nataliacastillo-design/
 ________________
-## Lenguages
+## 💡Lenguages
 | LENGUAGES | LEVEL |
 | ------ | ------ |
 | English | B1 |
 | Spanish | Native |
 ________________
-## Experience 
+## 💡Experience 
 ### 2023 - presente
 ### Junior UX/UI Designer 
 The project consists of building a Web application with Adobe XD and Markdown. Creation of Figma-based components. Agile work methodology.
@@ -23,20 +23,19 @@ The project consists of building a Web application with Adobe XD and Markdown. C
 ### Architect Designer / Project Management
 Interior architectural designs, monitoring and control of the executed projects. Use of tools such as ArchiCad, Revit. V-Ray and SketchUp.
 ________________
-## Education
-
-### UX/UI DESIGNER 
+## 💡Education
+### UX/UI DESIGNER 🧮
 CODERHOUSE
 2023
 
-### FULL-STACK JAVASCRIPT DEVELOPER
+### FULL-STACK JAVASCRIPT DEVELOPER 🔗
 Undefined Academy
 2023
 
-### PROJECT MANAGEMENT
+### PROJECT MANAGEMENT 📈
 Universidad Piloto de Colombia
 2021
 
-### ARCHITECT
+### ARCHITECT 👷🏼‍♀️
 Universidad Santo Tomás
 2019
