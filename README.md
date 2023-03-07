@@ -7,12 +7,13 @@
 ### 📩 nataliacastilloperez.design@gmail.com
 ### 🖥️ www.github.com/nataliacastilloperez
 ### 📄 www.linkedin.com/in/nataliacastillo-design/
-
+________________
+## Lenguages
 | LENGUAGES | LEVEL |
 | ------ | ------ |
-| English | [B1] |
-| Spanish | [Native] |
-
+| English | B1 |
+| Spanish | Native |
+________________
 ## Experience 
 ### 2023 - presente
 ### Junior UX/UI Designer 
@@ -21,3 +22,21 @@ The project consists of building a Web application with Adobe XD and Markdown. C
 ### 2019 - 2022
 ### Architect Designer / Project Management
 Interior architectural designs, monitoring and control of the executed projects. Use of tools such as ArchiCad, Revit. V-Ray and SketchUp.
+________________
+## Education
+
+### UX/UI DESIGNER 
+CODERHOUSE
+2023
+
+### FULL-STACK JAVASCRIPT DEVELOPER
+Undefined Academy
+2023
+
+### PROJECT MANAGEMENT
+Universidad Piloto de Colombia
+2021
+
+### ARCHITECT
+Universidad Santo Tomás
+2019
