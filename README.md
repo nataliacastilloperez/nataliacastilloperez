@@ -6,3 +6,12 @@
 | ------ | ------ |
 | English | [B1] |
 | Spanish | [Native] |
+
+## Experience 
+### 2023 - presente
+### Junior UX/UI Designer 
+The project consists of building a Web application with Adobe XD and Markdown. Creation of Figma-based components. Agile work methodology.
+
+### 2019 - 2022
+### Architect Designer / Project Management
+Interior architectural designs, monitoring and control of the executed projects. Use of tools such as ArchiCad, Revit. V-Ray and SketchUp.
