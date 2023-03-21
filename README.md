@@ -1,6 +1,6 @@
 # Hi 👋🏼 I'm Natalia Castillo
-## Trainee UX/UI Designer / Trainee JavaScript Developer / Architect / Project Management 
-### Trainee UX/UI Designer and TraineeJavaScript Developer. Architect and Project Management with experience in interior design and project management in the execution of work. High sense of leadership, adaptability, creativity and problem solving. My experience in my previous jobs has led me to strongly develop my communication skills and teamwork.
+## Trainee UX/UI Designer / Master Digital Marketing and Analytics / Architect / Project Management 
+### Trainee UX/UI Designer and Master Digital Marketing and Analytics. Architect and Project Management with experience in interior design and project management in the execution of work. High sense of leadership, adaptability, creativity and problem solving. My experience in my previous jobs has led me to strongly develop my communication skills and teamwork.
 
 ## 👤Contact
 ### 📱(+57) 300 219 2441
@@ -27,6 +27,10 @@ ________________
 ### UX/UI DESIGNER 🧮
 CODERHOUSE
 2023
+
+### MASTER IN DIGITAL MARKETING & WEB ANALYTICS 🖥️📈
+Neetwork Digital Business School
+2023 
 
 ### FULL-STACK JAVASCRIPT DEVELOPER 🔗
 Undefined Academy
